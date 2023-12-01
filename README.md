@@ -1,16 +1,25 @@
-### Hi there 👋
+👋 Hello World! I'm Mahdi Dehghan, a passionate developer with a flair for creating web applications. 🚀
 
-<!--
-**mahdidehghandev/mahdidehghandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Tech Stack:
+- HTML
+- CSS
+- Bootstrap
+- Python
+- Django
 
-Here are some ideas to get you started:
+  
+🔧 Skills:
+- Front-end: HTML, CSS, Bootstrap
+- Back-end: Python, Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 Learning:
+- Mastering Django and its ecosystem
+
+  
+📫 Let's connect:
+- LinkedIn: 
+- Twitter: https://twitter.com/MahdiiDehghan
+- Instagram: https://www.instagram.com/immahdidehghan/
+
+
