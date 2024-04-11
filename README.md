@@ -6,11 +6,11 @@
 - Bootstrap
 - Python
 - Django
-
+- Django rest framework
   
 🔧 Skills:
 - Front-end: HTML, CSS, Bootstrap
-- Back-end: Python, Django
+- Back-end: Python, Django, Django rest framework
 
 
 🌱 Learning:
