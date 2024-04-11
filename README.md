@@ -17,9 +17,5 @@
 - Mastering Django and its ecosystem
 
   
-📫 Let's connect:
-- LinkedIn: https://www.linkedin.com/in/mahdidehghan/
-- Twitter: https://twitter.com/MahdiiDehghan
-- Instagram: https://www.instagram.com/immahdidehghan/
 
 
