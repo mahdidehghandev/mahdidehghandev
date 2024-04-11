@@ -13,9 +13,5 @@
 - Back-end: Python, Django, Django rest framework
 
 
-🌱 Learning:
-- Mastering Django and its ecosystem
-
-  
 
 
